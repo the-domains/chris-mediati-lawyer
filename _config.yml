@@ -1,0 +1,28 @@
+name: Chris Mediati Lawyer
+favicon: null
+layout_spectrum: 0.8786427432205528
+typography_spectrum: 0.3331779073923826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3638058905489743
+  lightness: 0.8111939488444477
+  saturation: 0.9350887262262404
+  rhythmicContrast: 0.8306763363070786
+purpose: []
